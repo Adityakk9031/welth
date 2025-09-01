@@ -5,16 +5,17 @@
 
 ## 🧠 Features
 
-- 🧾 **AI-based Receipt Scanning** – Automate expense entry using Gemini Vision.
-- 🧠 **Smart Categorization** – Classify expenses using AI.
-- 🔔 **Budget Alerts** – Get notified when you overspend.
-- 📊 **Real-time Dashboard** – Track spending and trends instantly.
-- 🔐 **Authentication** – Clerk-based secure sign-up/sign-in.
-- ⏱ **Event-driven Workflows** – Handle events with Inngest.
-- 🛡 **Rate Limiting + Security** – Secured via ArcJet.
-- 📩 **Email Notifications** – Powered by Resend API.
+- 🧾 **AI Receipt Scanning** – Upload receipts and auto-log expenses using Gemini Vision.
+- 🧠 **Smart Categorization** – Classify transactions with AI-powered tagging.
+- 📈 **Monthly AI Insights** – Get personalized suggestions to improve spending habits.
+- 🔔 **Budget Alerts** – Get notified when you exceed budget thresholds.
+- 📊 **Real-time Dashboard** – Visualize spending trends and category breakdowns.
+- 🔐 **Authentication** – Secure sign-up/sign-in via Clerk.
+- ⏱ **Event-driven Workflows** – Background jobs handled by Inngest.
+- 🛡 **Rate Limiting & Security** – Protect endpoints with ArcJet.
+- 📩 **Email Notifications** – Transaction summaries via Resend API.
 - 🎨 **Beautiful UI** – Built with Tailwind CSS + Shadcn UI.
-- ⚙️ **Backend** – Next.js 15 (App Router), Prisma ORM, Supabase DB.
+- ⚙️ **Backend** – Next.js App Router, Prisma ORM, Supabase DB.
 
 ---
 
