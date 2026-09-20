@@ -13,7 +13,7 @@
 - 🔐 **Authentication** – Secure sign-up/sign-in via Clerk.
 - ⏱ **Event-driven Workflows** – Background jobs handled by Inngest.
 - 🛡 **Rate Limiting & Security** – Protect endpoints with ArcJet.
-- 📩 **Email Notifications** – Transaction summaries via Resend API.
+- 📩 **Email Notifications** – Transaction summaries via Resend API With Ai Advice how to improve ur expense.
 - 🎨 **Beautiful UI** – Built with Tailwind CSS + Shadcn UI.
 - ⚙️ **Backend** – Next.js App Router, Prisma ORM, Supabase DB.
 
